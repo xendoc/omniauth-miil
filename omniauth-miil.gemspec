@@ -5,7 +5,7 @@ require 'omniauth-miil/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "omniauth-miil"
-  spec.version       = Omniauth::Miil::VERSION
+  spec.version       = OmniAuth::Miil::VERSION
   spec.authors       = ["xendoc"]
   spec.email         = ["xendoc@users.noreply.github.com"]
 
