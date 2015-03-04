@@ -3,6 +3,9 @@
 This is the OmniAuth strategy for authenticating to Miil.
 However Miil does not provide Open API and OAuth Services :(
 
+[![Circle CI](https://circleci.com/gh/xendoc/omniauth-miil.svg?style=svg)](https://circleci.com/gh/xendoc/omniauth-miil)
+[![Code Climate](https://codeclimate.com/github/xendoc/omniauth-miil/badges/gpa.svg)](https://codeclimate.com/github/xendoc/omniauth-miil)
+
 ## Installation
 
 Add this line to your application's Gemfile:
