@@ -34,6 +34,7 @@ module OmniAuth
         {
           id: raw_info["user"]["user_id"],
           name: raw_info["user"]["username"],
+          image: raw_info["user"]["user_icon_url"],
         }
       end
 
