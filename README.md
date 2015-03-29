@@ -13,7 +13,7 @@ It was created for internal service.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'omniauth-miil', github: 'https://github.com/xendoc/omniauth-miil'
+gem 'omniauth-miil', github: 'xendoc/omniauth-miil'
 ```
 
 And then execute:
